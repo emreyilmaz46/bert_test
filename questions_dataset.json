@@ -1,0 +1,758 @@
+[
+    {
+        "text": "Python'da bir döngü nasıl oluşturulur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir liste nasıl sıralanır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir fonksiyon nasıl tanımlanır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da if-else koşullu ifadeleri nasıl yazılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string nasıl ters çevrilir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir dosya nasıl okunur?",
+        "label": 0
+    },
+    {
+        "text": "Python ile veri analizi nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir sözlük (dictionary) nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da list comprehension nedir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da lambda fonksiyonları nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da hata yönetimi nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da çoklu miras nasıl çalışır?",
+        "label": 1
+    },
+    {
+        "text": "Doğal dil işleme ve derin öğrenme arasındaki fark nedir?",
+        "label": 2
+    },
+    {
+        "text": "Veri yapıları ve algoritmalar arasındaki ilişki nedir?",
+        "label": 2
+    },
+    {
+        "text": "Makine öğrenmesi modellerinin eğitimi nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Derin öğrenmede geri yayılım algoritması nasıl çalışır?",
+        "label": 2
+    },
+    {
+        "text": "Transfer öğrenme ve ince ayar (fine-tuning) arasındaki fark nedir?",
+        "label": 2
+    },
+    {
+        "text": "Bir sinir ağının yapısını nasıl tasarlarsınız?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir tuple nasıl oluşturulur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir set nasıl kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da for ve while döngüleri arasındaki fark nedir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da değişkenler nasıl tanımlanır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir modül nasıl içe aktarılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeye eleman nasıl eklenir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da JSON verisi nasıl işlenir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir sınıf (class) nasıl oluşturulur?",
+        "label": 1
+    },
+    {
+        "text": "Python'da decorators nedir ve nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir nesne nasıl başlatılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da dosya yolları nasıl yönetilir?",
+        "label": 1
+    },
+    {
+        "text": "Doğal dil işleme için kullanılan popüler Python kütüphaneleri nelerdir?",
+        "label": 2
+    },
+    {
+        "text": "Derin öğrenme modelleri nasıl optimize edilir?",
+        "label": 2
+    },
+    {
+        "text": "Makine öğrenmesi ile doğrulama (validation) nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Veri temizleme ve ön işleme adımları nelerdir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da büyük veri analizi için hangi kütüphaneler kullanılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da CSV dosyası nasıl okunur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir diziyi tersine çevirmek için hangi yöntemler kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeye nasıl eleman eklenir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string içinde harf aramak için hangi metot kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da global ve local değişkenler arasındaki fark nedir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da exception handling nedir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da iteratörler ve jeneratörler arasındaki fark nedir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da context manager nedir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir sınıfın (class) miras alması nasıl sağlanır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da @property decorator'ü nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Veri madenciliği ve veri bilimi arasındaki fark nedir?",
+        "label": 2
+    },
+    {
+        "text": "NLP'de embedding nedir ve nasıl kullanılır?",
+        "label": 2
+    },
+    {
+        "text": "Derin öğrenmede dropout tekniği nasıl çalışır?",
+        "label": 2
+    },
+    {
+        "text": "Veri bilimi projelerinde kullanılan model değerlendirme metrikleri nelerdir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da RNN ve LSTM modelleri arasındaki fark nedir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da argümanlar nasıl fonksiyonlara geçirilir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da string formatlama nasıl yapılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da boolean veri tipi nedir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir sayıyı string'e çevirmek için hangi metot kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir setten eleman çıkarmak için hangi metot kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da ORM nedir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da logging nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da multithreading nedir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da metaclasses nedir ve nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da unittesting nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Derin öğrenme modellerinde optimizasyon algoritmaları nelerdir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da tensorflow kullanarak bir model nasıl oluşturulur?",
+        "label": 2
+    },
+    {
+        "text": "Makine öğrenmesinde hyperparameter tuning nedir?",
+        "label": 2
+    },
+    {
+        "text": "Veri kümesinin ölçeklendirilmesi neden önemlidir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da keras kullanarak bir model nasıl eğitilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da sözlükten (dictionary) anahtar ve değer nasıl elde edilir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da break ve continue ifadeleri arasındaki fark nedir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da map fonksiyonu nasıl çalışır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da string interpolation nasıl yapılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeyi tersine çevirmek için hangi metot kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da threading ve multiprocessing arasındaki fark nedir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da GIL nedir ve nasıl çalışır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir fonksiyona varsayılan argüman nasıl atanır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da zip ve unzip işlemleri nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da pickle modülü nedir ve nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Veri biliminde model seçimi nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da feature engineering nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Derin öğrenme modellerinde aktivasyon fonksiyonları nelerdir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da keras ile veri artırma (data augmentation) nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir modelin overfitting yapması nasıl engellenir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da dosya yazma işlemi nasıl yapılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da import nedir ve nasıl kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeyi sort etmek için hangi metot kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da string'i integer'a çevirmek için hangi metot kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da input nasıl alınır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da async ve await nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da socket programlama nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da REST API nasıl oluşturulur?",
+        "label": 1
+    },
+    {
+        "text": "Python'da decorator nedir ve nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da args ve kwargs nedir ve nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da makine öğrenmesi ile model doğruluğu nasıl artırılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri kümesi nasıl yüklenir ve temizlenir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da sinir ağı nasıl oluşturulur?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model validation nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri biliminde model deployment nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir dosyayı nasıl açar ve okursun?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir diziyi nasıl filtrelersin?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir sözlük nasıl sıralanır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir tuple nasıl güncellenir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'in uzunluğu nasıl bulunur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da JSON verisi nasıl yazılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da thread oluşturma nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da asyncio nedir ve nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da REST API isteği nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da binary dosyalar nasıl işlenir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da veri biliminde feature selection nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model eğitimi için sklearn nasıl kullanılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir sinir ağı modeli nasıl optimize edilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model tuning için en iyi uygulamalar nelerdir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da zaman serileri (time series) analizi nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir listeyi for döngüsü ile nasıl iteratif olarak işlersin?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir dosyaya yazmak için hangi yöntemler kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeyi alfabetik sıraya nasıl koyarsın?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'i başka bir string'e nasıl dönüştürürsün?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir sözlükten (dictionary) bir anahtar nasıl kaldırılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir sinir ağı modeli nasıl eğitilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir veri kümesi nasıl hazırlanır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model değerlendirmesi için hangi metrikler kullanılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri kümesi dengeleme nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir sinir ağı modeli nasıl kaydedilir ve yeniden yüklenir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir for döngüsü nasıl durdurulur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'in sonu nasıl bulunur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir tuple'ı listeye nasıl çevirirsin?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'i büyük harflerle yazmak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir dosyayı kapatmak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da veri biliminde bir model nasıl oluşturulur?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model değerlendirme için ROC eğrisi nasıl çizilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da sınıflandırma modelleri nasıl oluşturulur?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model tuning nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri analizi için pandas nasıl kullanılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri görselleştirme için hangi kütüphaneler kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da scatter plot nasıl çizilir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir histogram nasıl oluşturulur?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir veri kümesi nasıl görselleştirilir?",
+        "label": 1
+    },
+    {
+        "text": "Python'da veri analizi için seaborn nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da overfitting nasıl önlenir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model seçimi için cross-validation nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri biliminde outlier'lar nasıl bulunur?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri biliminde p-value nedir ve nasıl kullanılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model eğitimi için validation seti nasıl oluşturulur?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir dosyanın içeriği nasıl değiştirilir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'i küçük harflere dönüştürmek için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir dizideki belirli elemanı bulmak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeyi tersten sıralamak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir dosyayı açmak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da feature selection nedir ve nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model validation nedir ve nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da regression modeli nasıl oluşturulur?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir modelin doğruluğu nasıl hesaplanır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir veri kümesi nasıl görselleştirilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri görselleştirme için matplotlib nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir bar chart nasıl oluşturulur?",
+        "label": 1
+    },
+    {
+        "text": "Python'da veri analizi için numpy nasıl kullanılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da bir box plot nasıl oluşturulur?",
+        "label": 1
+    },
+    {
+        "text": "Python'da veri analizi için pandas kullanımı nasıl yapılır?",
+        "label": 1
+    },
+    {
+        "text": "Python'da feature engineering nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir modelin başarımı nasıl ölçülür?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model tuning nedir ve nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri bilimi projelerinde kullanılan en iyi uygulamalar nelerdir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da model performansı nasıl optimize edilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir sözlükteki (dictionary) değerler nasıl sıralanır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'i split etmek için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listede en büyük sayıyı bulmak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'in belirli bir kısmını değiştirmek için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeyi sıralamak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir modelin overfitting yapmasını nasıl önlersin?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir sinir ağı nasıl eğitilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir veri kümesi nasıl değerlendirilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir modelin doğruluğu nasıl arttırılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir modelin performansı nasıl optimize edilir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir dosya nasıl açılır ve yazılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir diziyi tersine çevirmek için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir sözlük (dictionary) nasıl oluşturulur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'in içeriği nasıl değiştirilir?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeye eleman eklemek için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da veri biliminde hyperparameter tuning nedir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri bilimi projelerinde overfitting nasıl önlenir?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri bilimi projelerinde feature engineering nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri bilimi projelerinde model seçimi nasıl yapılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da veri bilimi projelerinde model doğruluğu nasıl artırılır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir string'in uzunluğu nasıl bulunur?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir dosyanın içeriği nasıl yazılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir listeyi sıralamak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir string'in belirli bir kısmını bulmak için hangi yöntem kullanılır?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir sözlükten anahtar ve değerleri nasıl alırsın?",
+        "label": 0
+    },
+    {
+        "text": "Python'da bir modelin doğruluğunu nasıl hesaplarsın?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir modelin başarımını nasıl ölçersin?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir sinir ağı modeli nasıl oluşturulur?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir veri kümesi nasıl hazırlanır?",
+        "label": 2
+    },
+    {
+        "text": "Python'da bir modelin performansını nasıl optimize edersin?",
+        "label": 2
+    }
+]

@@ -1,0 +1,44 @@
+{
+  "questions": [
+    {
+      "text": "What topics will be covered in the AI course?",
+      "label": 0
+    },
+    {
+      "text": "Is prior programming experience required for this course?",
+      "label": 2
+    },
+    {
+      "text": "How do neural networks process input data?",
+      "label": 1
+    },
+    {
+      "text": "What is the difference between supervised and unsupervised learning?",
+      "label": 0
+    },
+    {
+      "text": "How long does the course last?",
+      "label": 2
+    },
+    {
+      "text": "Are there any prerequisites for enrolling in this AI course?",
+      "label": 2
+    },
+    {
+      "text": "Can you explain the concept of backpropagation in neural networks?",
+      "label": 1
+    },
+    {
+      "text": "What programming languages will be used in the course projects?",
+      "label": 1
+    },
+    {
+      "text": "Is there a final exam or project for this course?",
+      "label": 2
+    },
+    {
+      "text": "How does reinforcement learning differ from other machine learning approaches?",
+      "label": 0
+    }
+  ]
+}
