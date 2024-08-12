@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "text": "Bu eğitimde liderlik konusunda hangi ana başlıklar ele alınıyor?",
+            "label": 1
+        },
+        {
+            "text": "Dijital dönüşüm eğitiminin genel içeriğini özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "İnovasyon yönetimi kursunun ana temalarını sıralar mısın?",
+            "label": 1
+        },
+        {
+            "text": "Finansal okuryazarlık eğitiminde hangi konular işleniyor?",
+            "label": 1
+        },
+        {
+            "text": "Proje yönetimi eğitiminin genel çerçevesini anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "Etkili iletişim beceriler kursunun içeriğini genel hatlarıyla açıklar mısın?",
+            "label": 1
+        },
+        {
+            "text": "Veri analizi eğitiminde hangi araçlar ve teknikler öğretiliyor?",
+            "label": 1
+        },
+        {
+            "text": "Kişisel gelişim eğitiminin ana odak noktaları nelerdir?",
+            "label": 1
+        },
+        {
+            "text": "Stratejik planlama kursunun genel yapısını anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "Müşteri ilişkileri yönetimi eğitiminin ana bölümlerini özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "Zaman yönetimi eğitiminde öğretilen temel stratejiler nelerdir?",
+            "label": 1
+        },
+        {
+            "text": "Yapay zeka ve makine öğrenmesi kursunun genel içeriğini özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "Örgütsel davranış eğitiminde hangi temel kavramlar ele alınıyor?",
+            "label": 1
+        },
+        {
+            "text": "Siber güvenlik eğitiminin ana başlıklarını sıralar mısın?",
+            "label": 1
+        },
+        {
+            "text": "Sürdürülebilirlik ve çevre yönetimi kursunun genel çerçevesini anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "Pazarlama stratejileri eğitiminin içeriğini genel hatlarıyla açıklar mısın?",
+            "label": 1
+        },
+        {
+            "text": "İnsan kaynakları yönetimi kursunda hangi konular işleniyor?",
+            "label": 1
+        },
+        {
+            "text": "Kriz yönetimi eğitiminin ana temalarını özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "Dijital pazarlama eğitiminde öğretilen temel stratejiler nelerdir?",
+            "label": 1
+        },
+        {
+            "text": "Çevik (Agile) proje yönetimi kursunun genel yapısını anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "Duygusal zeka eğitiminin ana odak noktaları nelerdir?",
+            "label": 1
+        },
+        {
+            "text": "Kurumsal sosyal sorumluluk eğitiminin genel içeriğini özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "İş hukuku eğitiminde hangi temel konular ele alınıyor?",
+            "label": 1
+        },
+        {
+            "text": "Tedarik zinciri yönetimi kursunun ana başlıklarını sıralar mısın?",
+            "label": 1
+        },
+        {
+            "text": "Yaratıcı düşünme teknikleri eğitiminin genel çerçevesini anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "Finansal modelleme kursunun içeriğini genel hatlarıyla açıklar mısın?",
+            "label": 1
+        },
+        {
+            "text": "İş analitiği eğitiminde hangi araçlar ve yöntemler öğretiliyor?",
+            "label": 1
+        },
+        {
+            "text": "Çatışma çözümü ve müzakere becerileri kursunun ana temalarını özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "Girişimcilik eğitiminin genel yapısını anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "İş etiği ve kurumsal yönetişim kursunda işlenen ana konular nelerdir?",
+            "label": 1
+        },
+        {
+            "text": "Blokzincir teknolojileri eğitiminin genel içeriğini özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "Yetenek yönetimi kursunun ana odak noktaları nelerdir?",
+            "label": 1
+        },
+        {
+            "text": "Dijital dönüşüm liderliği eğitiminde hangi konular ele alınıyor?",
+            "label": 1
+        },
+        {
+            "text": "İş süreci iyileştirme kursunun genel çerçevesini anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "Marka yönetimi eğitiminin ana başlıklarını sıralar mısın?",
+            "label": 1
+        },
+        {
+            "text": "Veri görselleştirme kursunun içeriğini genel hatlarıyla açıklar mısın?",
+            "label": 1
+        },
+        {
+            "text": "Örgütsel öğrenme ve bilgi yönetimi eğitiminin temel konuları nelerdir?",
+            "label": 1
+        },
+        {
+            "text": "Burda bahsedilen kar oranları içinde en yüksek olanı hangisi?",
+            "label": 1
+        },
+        {
+            "text": "Durumsal liderlik tekniklerine uyulan örneklerde uyulmayanlara göre ne değişiyor",
+            "label": 1
+        },
+        {
+            "text": "Bu eğitimde Daniel Kahnemann'la ilgili bütün alıntılardan bir derleme yap",
+            "label": 1
+        },
+        {
+            "text": "bu eğitim benim kariyerime ne fayda sağlayacak?",
+            "label": 1
+        },
+        {
+            "text": "değişim yönetiminin 5 adımını kısa kısa özetler şeklinde yaz",
+            "label": 1
+        },
+        {
+            "text": "Bu eğitimde Python ile OOP konusuna girecek misiniz?",
+            "label": 1
+        },
+        {
+            "text": "Burda önerilen bütün kitaplardan bana bi liste yap",
+            "label": 1
+        },
+        {
+            "text": "her dönemin değil de sadece 80 sonrası dönemin öne çıkan liderlik stillerini açıkla",
+            "label": 1
+        },
+        {
+            "text": "eğitimin tamamının özetini ver",
+            "label": 1
+        },
+        {
+            "text": "yapay zekanın her sektöre faydaları vardı ya videolarda onu sektör sektör kısaca söylesene bi",
+            "label": 1
+        },
+        {
+            "text": "Değişim yönetimi eğitiminin ana aşamalarını ve genel yaklaşımını özetler misin?",
+            "label": 1
+        },
+        {
+            "text": "Endüstri 4.0 ve dijital dönüşüm kursunun kapsamını genel hatlarıyla anlatır mısın?",
+            "label": 1
+        },
+        {
+            "text": "Sürdürülebilir liderlik eğitiminin temel prensiplerini ve genel içeriğini açıklar mısın?",
+            "label": 1
+        }
+    ]
+}

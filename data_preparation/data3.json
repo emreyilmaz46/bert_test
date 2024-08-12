@@ -1,0 +1,204 @@
+{
+    "questions": [
+    {
+    "text": "Yapay zeka konusunda başka hangi eğitimleriniz var?",
+    "label": 3
+    },
+    {
+    "text": "Liderlik eğitimlerinin tamamını listeleyebilir misin?",
+    "label": 3
+    },
+    {
+    "text": "Finans alanında ileri seviye kurslarınız mevcut mu?",
+    "label": 3
+    },
+    {
+    "text": "Yabancı dil öğrenme eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Proje yönetimi sertifikası veren bir eğitiminiz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Kişisel gelişim kategorisinde en popüler 5 eğitiminiz hangileri?",
+    "label": 3
+    },
+    {
+    "text": "Veri bilimi alanında yeni eklenen eğitimler neler?",
+    "label": 3
+    },
+    {
+    "text": "İş hukuku ile ilgili eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Dijital pazarlama konusunda hangi eğitmenlerin kursları mevcut?",
+    "label": 3
+    },
+    {
+    "text": "Siber güvenlik eğitimlerinizin seviyelerini öğrenebilir miyim?",
+    "label": 3
+    },
+    {
+    "text": "Çevik (Agile) metodolojiler hakkında başka eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Satış teknikleri üzerine hangi eğitimleri önerirsiniz?",
+    "label": 3
+    },
+    {
+    "text": "İnovasyon yönetimi konusunda ileri seviye bir eğitiminiz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Sürdürülebilirlik ve çevre yönetimi ile ilgili eğitimleriniz neler?",
+    "label": 3
+    },
+    {
+    "text": "Blockchain teknolojileri hakkında eğitimleriniz mevcut mu?",
+    "label": 3
+    },
+    {
+    "text": "İnsan kaynakları yönetimi alanında sertifikalı programlarınız var mı?",
+    "label": 3
+    },
+    {
+    "text": "Kriz yönetimi konusunda hangi eğitimleri sunuyorsunuz?",
+    "label": 3
+    },
+    {
+    "text": "Müşteri ilişkileri yönetimi eğitimlerinizin içerikleri neler?",
+    "label": 3
+    },
+    {
+    "text": "Endüstri 4.0 hakkında eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Görsel tasarım ve UX/UI konularında hangi eğitimleri önerirsiniz?",
+    "label": 3
+    },
+    {
+    "text": "Stratejik planlama üzerine en kapsamlı eğitiminiz hangisi?",
+    "label": 3
+    },
+    {
+    "text": "Duygusal zeka geliştirme konusunda başka eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Risk yönetimi alanında hangi eğitimleri sunuyorsunuz?",
+    "label": 3
+    },
+    {
+    "text": "Yazılım geliştirme eğitimlerinizin seviyeleri neler?",
+    "label": 3
+    },
+    {
+    "text": "Kurumsal sosyal sorumluluk konusunda eğitimleriniz mevcut mu?",
+    "label": 3
+    },
+    {
+    "text": "Tedarik zinciri yönetimi ile ilgili hangi eğitimleri önerirsiniz?",
+    "label": 3
+    },
+    {
+    "text": "Girişimcilik üzerine sertifikalı bir programınız var mı?",
+    "label": 3
+    },
+    {
+    "text": "Yapay zeka etiği konusunda eğitimleriniz mevcut mu?",
+    "label": 3
+    },
+    {
+    "text": "İş analitiği alanında hangi araçlar üzerine eğitimler sunuyorsunuz?",
+    "label": 3
+    },
+    {
+    "text": "Marka yönetimi konusunda ileri seviye eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Çalışan bağlılığı ve motivasyon üzerine eğitimleriniz neler?",
+    "label": 3
+    },
+    {
+    "text": "Veri görselleştirme konusunda hangi araçlar için eğitim veriyorsunuz?",
+    "label": 3
+    },
+    {
+    "text": "Değişim yönetimi eğitimlerinizin içerikleri neler?",
+    "label": 3
+    },
+    {
+    "text": "Nöroliderlik konusunda eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Sürdürülebilir finans alanında hangi eğitimleri sunuyorsunuz?",
+    "label": 3
+    },
+    {
+    "text": "İş etiği ve kurumsal yönetişim konusunda eğitimleriniz mevcut mu?",
+    "label": 3
+    },
+    {
+    "text": "Yapay zeka destekli karar verme süreçleri hakkında eğitimleriniz var mı?",
+    "label": 3
+    },
+    {
+    "text": "Yetenek yönetimi konusunda hangi eğitimleri önerirsiniz?",
+    "label": 3
+    },
+    {
+    "text": "Dijital dönüşüm liderliği üzerine eğitimleriniz mevcut mu?",
+    "label": 3
+    },
+    {
+    "text": "İş süreci iyileştirme metodolojileri hakkında hangi eğitimleri sunuyorsunuz?",
+    "label": 3
+    },
+    {
+        "text": "Kaç tane eğitiminiz var toplam?",
+        "label": 3
+      },
+      {
+        "text": "dijital dönüşümle ilgili hangi eğitmenler var",
+        "label": 3
+      },
+      {
+        "text": "bize bu powerpoint artık yetmiyo, onun yerine başka sunum araçlarını anlatan bir şeyler önerebilir misin",
+        "label": 3
+      },
+      {
+        "text": "Simon Sinek'ten alıntı yapılması çok iyiydi. Başka videolarınız var mı yine Simon'dan bahseden",
+        "label": 3
+      },
+      {
+        "text": "bu mindfulness olayını sevdim bunun gibi hangi eğitimler var",
+        "label": 3
+      },
+      {
+        "text": "bunun podcast olanı olsa çok iyi olur ha",
+        "label": 3
+      },
+      {
+        "text": "yapay zekayla ilgili en iyi 3 eğitiminiz hangileri",
+        "label": 3
+      },
+      {
+        "text": "yine bu motivasyon konusuyla ilgili ama daha uzun eğitimler videolar falan var mı",
+        "label": 3
+      },
+      {
+        "text": "Mehmet Auf'un başka hangi eğitimleri var?",
+        "label": 3
+      },
+      {
+        "text": "bizimki basic katalog muydu",
+        "label": 3
+      }
+    ]
+    }

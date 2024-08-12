@@ -4,7 +4,7 @@ from transformers import BertTokenizer, BertForSequenceClassification, TrainingA
 import torch
 
 # Load the dataset from JSON
-with open('ai_course_questions.json', 'r') as f:
+with open('bert_dataset.json', 'r') as f:
     data = json.load(f)
 
 # Convert the JSON data to a format suitable for the Dataset class

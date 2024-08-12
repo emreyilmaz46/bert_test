@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "text": "sizin kataloğa bakmadım başka benzer eğitim var mı diye ama bu Johari penceresini anlamam lazım",
+            "label": 4
+        },
+        {
+            "text": "Excel'in hangi versiyonunu alayım",
+            "label": 4
+        },
+        {
+            "text": "bu eğitimleri sen mi hazırladın, çok yüzeysel kalmış",
+            "label": 4
+        },
+        {
+            "text": "önceki menüye dönmek istiyorum",
+            "label": 4
+        },
+        {
+            "text": "anlamadım",
+            "label": 4
+        },
+        {
+            "text": "böyle kişisel gelişim videolarına inanmıyorum",
+            "label": 4
+        },
+        {
+            "text": "satış tekniklerini hatırlatsana bana ama genel bir özet gibi",
+            "label": 4
+        },
+        {
+            "text": "İş hukukunda burda yazıldığı kadar basit değil bu konu",
+            "label": 4
+        },
+        {
+            "text": "SQL Server'da olup MySQLde olmayan özellikler kısmı hatalı",
+            "label": 4
+        },
+        {
+            "text": "Performans değerlendirme modellerinin tarihinden fazla uzun bahsedilmiş",
+            "label": 4
+        },
+        {
+            "text": "Bu SWOT analizi konusu bana biraz karışık geldi, başka bir yerden bakabilir miyim?",
+            "label": 4
+        },
+        {
+            "text": "Python'un hangi sürümünü kullanmalıyım bu eğitim için?",
+            "label": 4
+        },
+        {
+            "text": "Bu eğitim videoları biraz eski gibi, güncel versiyonu yok mu?",
+            "label": 4
+        },
+        {
+            "text": "Eğitimin başındaki bölüme nasıl geri dönebilirim?",
+            "label": 4
+        },
+        {
+            "text": "Bu liderlik modelleri bölümü çok karmaşık",
+            "label": 4
+        },
+        {
+            "text": "Yapay zeka eğitimlerinin pratikte bir faydası olduğuna inanmıyorum",
+            "label": 4
+        },
+        {
+            "text": "Proje yönetimi metodolojilerini özetleyebilir misin ama çok detaya girmeden",
+            "label": 4
+        },
+        {
+            "text": "Veri analitiğinde bu kadar basit değil aslında, biraz yüzeysel kalmış",
+            "label": 4
+        },
+        {
+            "text": "Java ile Python arasındaki farklar kısmında bazı hatalar var gibi",
+            "label": 4
+        },
+        {
+            "text": "Agile metodolojinin tarihçesi kısmı gereğinden fazla uzun tutulmuş",
+            "label": 4
+        },
+        {
+            "text": "Bu eğitimde bahsedilen yazılım aracının ücretsiz versiyonu var mı?",
+            "label": 4
+        },
+        {
+            "text": "Buradaki finansal modelleme örnekleri gerçek hayatla pek uyuşmuyor",
+            "label": 4
+        },
+        {
+            "text": "Eğitmenin anlattığı bu konu hakkında başka kaynak önerebilir misin?",
+            "label": 4
+        },
+        {
+            "text": "Bu eğitim platformunda arama yapamıyorum, nasıl bulacağım istediğim konuyu?",
+            "label": 4
+        },
+        {
+            "text": "Yapay zeka etiği konusu biraz hafif geçilmiş, daha detaylı bir şey yok mu?",
+            "label": 4
+        },
+        {
+            "text": "Bu eğitim serisinin tamamını bitirmem gerekiyor mu sertifika için?",
+            "label": 4
+        },
+        {
+            "text": "Blockchain konusunu anlamadım ama katalogda başka eğitim var mı diye de bakmadım",
+            "label": 4
+        },
+        {
+            "text": "Eğitimde bahsedilen bu yöntemi bizim şirkette uygulamak imkansız gibi",
+            "label": 4
+        },
+        {
+            "text": "Bu konunun güncel versiyonu farklı, eğitim biraz eski kalmış sanki",
+            "label": 4
+        },
+        {
+            "text": "Eğitimde anlatılan bu yazılımın lisans ücreti nedir acaba?",
+            "label": 4
+        },
+        {
+            "text": "Bu eğitimde anlatılan inovasyon teknikleri bizim sektöre pek uymuyor gibi",
+            "label": 4
+            },
+            {
+            "text": "Yapay zeka eğitiminin hangi bölümünde kalmıştım?",
+            "label": 4
+            },
+            {
+            "text": "Bu liderlik modelinin gerçek hayatta işe yaradığını hiç sanmıyorum",
+            "label": 4
+            },
+            {
+            "text": "Eğitimde kullanılan bu yazılımın Mac versiyonu var mı?",
+            "label": 4
+            },
+            {
+            "text": "Veri analitiği konusunda daha pratik örnekler yok mu?",
+            "label": 4
+            },
+            {
+            "text": "Bu eğitimi tamamlayınca LinkedIn profilime ekleyebilir miyim?",
+            "label": 4
+            },
+            {
+            "text": "Eğitmenin bahsettiği bu kitabı nereden bulabilirim?",
+            "label": 4
+            },
+            {
+            "text": "Siber güvenlik eğitiminde anlatılan bu konu biraz eskimiş sanki",
+            "label": 4
+            },
+            {
+            "text": "Bu proje yönetimi tekniğini anlatan başka bir video var mı?",
+            "label": 4
+            },
+            {
+            "text": "Eğitimde kullanılan terminoloji biraz karışık geldi",
+            "label": 4
+            },
+            {
+            "text": "Bu finansal modelleme eğitimi için ön koşul var mı?",
+            "label": 4
+            },
+            {
+            "text": "Eğitimde bahsedilen bu yasalar bizim ülkede geçerli mi?",
+            "label": 4
+            },
+            {
+            "text": "Bu eğitim serisini hazırlayan ekiple nasıl iletişime geçebilirim?",
+            "label": 4
+            },
+            {
+            "text": "Eğitimde anlatılan bu teknolojiyi kullanmak için lisans gerekiyor mu?",
+            "label": 4
+            },
+            {
+            "text": "Bu pazarlama stratejileri küçük işletmeler için de geçerli mi?",
+            "label": 4
+            },
+            {
+            "text": "Eğitimde gösterilen bu grafikleri nasıl indirebilirim?",
+            "label": 4
+            },
+            {
+            "text": "Bu eğitim içeriğini başka bir dilde izleyebilir miyim?",
+            "label": 4
+            },
+            {
+            "text": "Eğitimde bahsedilen bu sertifikasyon sınavına nasıl hazırlanmalıyım?",
+            "label": 4
+            },
+            {
+            "text": "Bu yönetim teorisinin günümüzde hala geçerli olduğunu düşünüyor musunuz?",
+            "label": 4
+            },
+            {
+            "text": "Eğitimde kullanılan bu analiz aracının ücretsiz alternatifi var mı?",
+            "label": 4
+            }
+    ]
+}

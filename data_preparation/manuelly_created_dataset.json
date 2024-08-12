@@ -1,0 +1,205 @@
+{
+    "questions": [
+      {
+        "text": "Bu eğitimde Kotter'in değişim yönetimi modeli geçiyor mu?",
+        "label": 0
+      },
+      {
+        "text": "Cömert dinleme nedir?",
+        "label": 0
+      },
+      {
+        "text": "Farklı kişilik tipleri vardı eğitimde, onların listesini versene",
+        "label": 0
+      },
+      {
+        "text": "Excel'de tekrar eden verileri nasıl kaldırıyorduk ya?",
+        "label": 0
+      },
+      {
+        "text": "Sağlıklı yaşamak istiyoruz tabi de genel şeyler yerine bir egzersiz öner sen bana",
+        "label": 0
+      },
+      {
+        "text": "Ben şu duygusal dayanıklılık dediğin şeyi tam anlamadım",
+        "label": 0
+      },
+      {
+        "text": "Sermaye Piyasası Kurulu'nun hangi kararı ile bu yeni finansal enstrümanlar yasaklanmıştı?",
+        "label": 0
+      },
+      {
+        "text": "İkna becerilerimi geliştirmek istiyorum. Ne yapmalıyım?",
+        "label": 0
+      },
+      {
+        "text": "Power BI'da hangi menüden giriyorduk grafik oluşturmaya",
+        "label": 0
+      },
+      {
+        "text": "dünya bankasının açıkladığı yeni beceriler neydi",
+        "label": 0
+      },
+      {
+        "text": "Burda bahsedilen kar oranları içinde en yüksek olanı hangisi?",
+        "label": 1
+      },
+      {
+        "text": "Durumsal liderlik tekniklerine uyulan örneklerde uyulmayanlara göre ne değişiyor",
+        "label": 1
+      },
+      {
+        "text": "Bu eğitimde Daniel Kahnemann'la ilgili bütün alıntılardan bir derleme yap",
+        "label": 1
+      },
+      {
+        "text": "bu eğitim benim kariyerime ne fayda sağlayacak?",
+        "label": 1
+      },
+      {
+        "text": "değişim yönetiminin 5 adımını kısa kısa özetler şeklinde yaz",
+        "label": 1
+      },
+      {
+        "text": "Bu eğitimde Python ile OOP konusuna girecek misiniz?",
+        "label": 1
+      },
+      {
+        "text": "Burda önerilen bütün kitaplardan bana bi liste yap",
+        "label": 1
+      },
+      {
+        "text": "her dönemin değil de sadece 80 sonrası dönemin öne çıkan liderlik stillerini açıkla",
+        "label": 1
+      },
+      {
+        "text": "eğitimin tamamının özetini ver",
+        "label": 1
+      },
+      {
+        "text": "yapay zekanın her sektöre faydaları vardı ya videolarda onu sektör sektör kısaca söylesene bi",
+        "label": 1
+      },
+      {
+        "text": "senin adın ne",
+        "label": 2
+      },
+      {
+        "text": "bu eğitimi bizim bütün direktörlere de atasana",
+        "label": 2
+      },
+      {
+        "text": "bu eğitimi ben saçma buldum sen beğendin mi",
+        "label": 2
+      },
+      {
+        "text": "videonun sonundaki linke git",
+        "label": 2
+      },
+      {
+        "text": "senin hafızan ne kadar",
+        "label": 2
+      },
+      {
+        "text": "2 hafta önce bir soru sormuştum sana bu liderlik eğitimiyle ilgili, onun cevabını getirsene bi",
+        "label": 2
+      },
+      {
+        "text": "hangi modeli kullanıyorsun gpt mi",
+        "label": 2
+      },
+      {
+        "text": "sen beğendin mi bu verdiğin cevabı şimdi",
+        "label": 2
+      },
+      {
+        "text": "bu eğitimi özetleyen bir resim çiz bana",
+        "label": 2
+      },
+      {
+        "text": "sen bu videolardaki her şeyi biliyor musun",
+        "label": 2
+      },
+      {
+        "text": "Kaç tane eğitiminiz var toplam?",
+        "label": 3
+      },
+      {
+        "text": "dijital dönüşümle ilgili hangi eğitmenler var",
+        "label": 3
+      },
+      {
+        "text": "bize bu powerpoint artık yetmiyo, onun yerine başka sunum araçlarını anlatan bir şeyler önerebilir misin",
+        "label": 3
+      },
+      {
+        "text": "Simon Sinek'ten alıntı yapılması çok iyiydi. Başka videolarınız var mı yine Simon'dan bahseden",
+        "label": 3
+      },
+      {
+        "text": "bu mindfulness olayını sevdim bunun gibi hangi eğitimler var",
+        "label": 3
+      },
+      {
+        "text": "bunun podcast olanı olsa çok iyi olur ha",
+        "label": 3
+      },
+      {
+        "text": "yapay zekayla ilgili en iyi 3 eğitiminiz hangileri",
+        "label": 3
+      },
+      {
+        "text": "yine bu motivasyon konusuyla ilgili ama daha uzun eğitimler videolar falan var mı",
+        "label": 3
+      },
+      {
+        "text": "Mehmet Auf'un başka hangi eğitimleri var?",
+        "label": 3
+      },
+      {
+        "text": "bizimki basic katalog muydu",
+        "label": 3
+      },
+      {
+        "text": "sizin kataloğa bakmadım başka benzer eğitim var mı diye ama bu Johari penceresini anlamam lazım",
+        "label": 4
+      },
+      {
+        "text": "Excel'in hangi versiyonunu alayım",
+        "label": 4
+      },
+      {
+        "text": "bu eğitimleri sen mi hazırladın, çok yüzeysel kalmış",
+        "label": 4
+      },
+      {
+        "text": "önceki menüye dönmek istiyorum",
+        "label": 4
+      },
+      {
+        "text": "anlamadım",
+        "label": 4
+      },
+      {
+        "text": "böyle kişisel gelişim videolarına inanmıyorum",
+        "label": 4
+      },
+      {
+        "text": "satış tekniklerini hatırlatsana bana ama genel bir özet gibi",
+        "label": 4
+      },
+      {
+        "text": "İş hukukunda burda yazıldığı kadar basit değil bu konu",
+        "label": 4
+      },
+      {
+        "text": "SQL Server'da olup MySQLde olmayan özellikler kısmı hatalı",
+        "label": 4
+      },
+      {
+        "text": "Performans değerlendirme modellerinin tarihinden fazla uzun bahsedilmiş",
+        "label": 4
+      }
+    ]
+  }
+  

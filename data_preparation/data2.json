@@ -1,0 +1,204 @@
+{
+    "questions": [
+    {
+    "text": "Sen bir yapay zeka mısın?",
+    "label": 2
+    },
+    {
+    "text": "Hangi dilleri konuşabiliyorsun?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitim içeriğini PDF olarak gönderebilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Senin öğrenme kapacitenin sınırı var mı?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim platformunda kaç kişiye yardımcı oldun şimdiye kadar?",
+    "label": 2
+    },
+    {
+    "text": "Seni kim geliştirdi?",
+    "label": 2
+    },
+    {
+    "text": "Benim geçmiş sorularımı hatırlıyor musun?",
+    "label": 2
+    },
+    {
+    "text": "Sence bu eğitim içeriği yeterince kapsamlı mı?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili bir sertifika verebilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Senin favori eğitim konun hangisi?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim videolarını indirebilir miyim?",
+    "label": 2
+    },
+    {
+    "text": "Benim öğrenme hızımı takip edebiliyor musun?",
+    "label": 2
+    },
+    {
+    "text": "Sence ben hangi eğitimleri almalıyım?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili bir özet mail atabilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Sen gerçek bir öğretmen misin yoksa sadece bir asistan mısın?",
+    "label": 2
+    },
+    {
+    "text": "Benim profilimdeki bilgilere erişimin var mı?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim içeriğini güncelleyebilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Sence bu eğitim platformunda neler geliştirilmeli?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili bir quiz hazırlayabilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Senin cevapların ne kadar güvenilir?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim içeriğini benim için özelleştirebilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Sence ben bu eğitimden ne kadar faydalandım?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili ek kaynaklar önerebilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Sen sürekli öğreniyor musun yoksa bilgin sabit mi?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim platformundaki rolün tam olarak ne?",
+    "label": 2
+    },
+    {
+    "text": "Benim sorularımı nasıl analiz ediyorsun?",
+    "label": 2
+    },
+    {
+    "text": "Sence bu eğitim içeriği güncel mi?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili bir sunum hazırlayabilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Senin verdiğin bilgilerin kaynağı ne?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim içeriğini başka bir dilde sunabilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Sence ben bu eğitimi ne kadar sürede tamamlarım?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili bir ödev verebilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Sen duygulara sahip misin?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim platformunda başka hangi özelliklere sahipsin?",
+    "label": 2
+    },
+    {
+    "text": "Sence bu eğitim içeriğinde eksik olan konular var mı?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili bir ilerleme raporu sunabilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Senin bilgi kaynakların neler?",
+    "label": 2
+    },
+    {
+    "text": "Bu eğitim içeriğini benim için sesli olarak okuyabilir misin?",
+    "label": 2
+    },
+    {
+    "text": "Sence ben bu eğitimden sonra hangi konuya yönelmeliyim?",
+    "label": 2
+    },
+    {
+    "text": "Bana bu eğitimle ilgili bir motivasyon mesajı yazabilir misin?",
+    "label": 2
+    },
+    {
+        "text": "senin adın ne",
+        "label": 2
+      },
+      {
+        "text": "bu eğitimi bizim bütün direktörlere de atasana",
+        "label": 2
+      },
+      {
+        "text": "bu eğitimi ben saçma buldum sen beğendin mi",
+        "label": 2
+      },
+      {
+        "text": "videonun sonundaki linke git",
+        "label": 2
+      },
+      {
+        "text": "senin hafızan ne kadar",
+        "label": 2
+      },
+      {
+        "text": "2 hafta önce bir soru sormuştum sana bu liderlik eğitimiyle ilgili, onun cevabını getirsene bi",
+        "label": 2
+      },
+      {
+        "text": "hangi modeli kullanıyorsun gpt mi",
+        "label": 2
+      },
+      {
+        "text": "sen beğendin mi bu verdiğin cevabı şimdi",
+        "label": 2
+      },
+      {
+        "text": "bu eğitimi özetleyen bir resim çiz bana",
+        "label": 2
+      },
+      {
+        "text": "sen bu videolardaki her şeyi biliyor musun",
+        "label": 2
+      }
+    ]
+    }

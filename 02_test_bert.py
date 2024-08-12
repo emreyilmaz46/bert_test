@@ -12,13 +12,13 @@ def load_model():
 model, tokenizer = load_model()
 
 # Define the category labels
-categories = ["Content-related", "Technical", "Administrative"]
+categories = ["Specific Content Question", "General Content Overview", "Assistant-Related Question", "Out-of-Scope Content Inquiry"]
 
 # Streamlit app
-st.title("AI Course Question Classifier")
+st.title("AI Assistant Query Classifier")
 
 # Text input for the question
-question = st.text_input("Enter your question about the AI course:")
+question = st.text_input("Enter your question about the course:")
 
 # Button to trigger classification
 if st.button("Classify Question"):
@@ -45,6 +45,7 @@ if st.button("Classify Question"):
 
 # Add some information about the categories
 st.sidebar.header("Category Information")
-st.sidebar.write("0 - Content-related: Questions about course topics and AI concepts")
-st.sidebar.write("1 - Technical: Questions about programming, AI techniques, or tools")
-st.sidebar.write("2 - Administrative: Questions about logistics, prerequisites, or assessments")
+st.sidebar.write("0 - Specific Content Question")
+st.sidebar.write("1 - General Content Overview")
+st.sidebar.write("2 - Assistant-Related Question")
+st.sidebar.write("3 - Out-of-Scope Content Inquiry")

@@ -1,0 +1,204 @@
+{
+    "questions": [
+        {
+            "text": "SWOT analizi nedir ve nasıl yapılır?",
+            "label": 0
+        },
+        {
+            "text": "Maslow'un ihtiyaçlar hiyerarşisindeki basamaklar nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Etkili sunum teknikleri arasında en önemlisi hangisidir?",
+            "label": 0
+        },
+        {
+            "text": "Agile proje yönetiminde 'sprint' ne anlama geliyor?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde stres yönetimi için önerilen teknikler nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Duygusal zeka nedir ve iş hayatında neden önemlidir?",
+            "label": 0
+        },
+        {
+            "text": "SMART hedef belirleme yöntemindeki kriterler nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Çatışma yönetiminde 'uzlaşma' stratejisi nasıl uygulanır?",
+            "label": 0
+        },
+        {
+            "text": "Pareto prensibi (80/20 kuralı) nedir ve nasıl kullanılır?",
+            "label": 0
+        },
+        {
+            "text": "Motivasyon teorilerinden Herzberg'in Çift Faktör Teorisi'ni açıklayabilir misiniz?",
+            "label": 0
+        },
+        {
+            "text": "Öğrenme çevikliği (learning agility) nedir ve nasıl geliştirilebilir?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde empatiyi geliştirmek için hangi egzersizler öneriliyor?",
+            "label": 0
+        },
+        {
+            "text": "Zaman yönetimi matrisinde 'önemli ve acil olmayan' işler hangi kuadrantta yer alır?",
+            "label": 0
+        },
+        {
+            "text": "Dijital dönüşümün şirketlere sağladığı en önemli 3 fayda nedir?",
+            "label": 0
+        },
+        {
+            "text": "Etkili geri bildirim verme tekniklerinden 'sandviç yöntemi' nasıl uygulanır?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde toksik davranışları tespit etmenin yolları nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Dönüşümcü liderlik tarzının temel özellikleri nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Müşteri deneyimi haritası (customer journey map) nasıl oluşturulur?",
+            "label": 0
+        },
+        {
+            "text": "Design thinking sürecindeki 5 aşama nedir?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde kültürel çeşitliliği artırmanın yolları nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Scrum metodolojisinde 'Product Owner'ın sorumlulukları nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Etkili networking için önerilen en iyi 3 strateji nedir?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde psikolojik güvenlik nasıl sağlanır?",
+            "label": 0
+        },
+        {
+            "text": "Veri görselleştirmede en sık yapılan hatalar nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Örgütsel öğrenmenin 3 temel seviyesi nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "İnovasyon kültürünü teşvik etmek için neler yapılabilir?",
+            "label": 0
+        },
+        {
+            "text": "Dijital pazarlamada A/B testi nasıl yapılır?",
+            "label": 0
+        },
+        {
+            "text": "Sürdürülebilir iş modelleri oluşturmanın temel prensipleri nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde duygusal bulaşıcılık (emotional contagion) nedir ve nasıl yönetilir?",
+            "label": 0
+        },
+        {
+            "text": "Büyük veri analizinde kullanılan temel teknikler nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Çevik (agile) ve şelale (waterfall) proje yönetimi arasındaki temel farklar nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde kuşaklar arası iletişimi geliştirmenin yolları nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Karar verme sürecinde 'çerçeveleme etkisi' (framing effect) nedir?",
+            "label": 0
+        },
+        {
+            "text": "Siber güvenlik farkındalığını artırmak için önerilen en etkili yöntemler nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Örgütsel değişim sürecinde Lewin'in 3 aşamalı modeli nedir?",
+            "label": 0
+        },
+        {
+            "text": "İş yerinde mindfulness uygulamalarının faydaları nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Müşteri segmentasyonu yaparken dikkat edilmesi gereken noktalar nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Etik liderliğin temel prensipleri nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Yapay zeka destekli insan kaynakları uygulamaları nelerdir?",
+            "label": 0
+        },
+        {
+            "text": "Kriz yönetiminde iletişim stratejisinin önemi nedir?",
+            "label": 0
+        },
+        {
+            "text": "Bu eğitimde Kotter'in değişim yönetimi modeli geçiyor mu?",
+            "label": 0
+        },
+        {
+            "text": "Cömert dinleme nedir?",
+            "label": 0
+        },
+        {
+            "text": "Farklı kişilik tipleri vardı eğitimde, onların listesini versene",
+            "label": 0
+        },
+        {
+            "text": "Excel'de tekrar eden verileri nasıl kaldırıyorduk ya?",
+            "label": 0
+        },
+        {
+            "text": "Sağlıklı yaşamak istiyoruz tabi de genel şeyler yerine bir egzersiz öner sen bana",
+            "label": 0
+        },
+        {
+            "text": "Ben şu duygusal dayanıklılık dediğin şeyi tam anlamadım",
+            "label": 0
+        },
+        {
+            "text": "Sermaye Piyasası Kurulu'nun hangi kararı ile bu yeni finansal enstrümanlar yasaklanmıştı?",
+            "label": 0
+        },
+        {
+            "text": "İkna becerilerimi geliştirmek istiyorum. Ne yapmalıyım?",
+            "label": 0
+        },
+        {
+            "text": "Power BI'da hangi menüden giriyorduk grafik oluşturmaya",
+            "label": 0
+        },
+        {
+            "text": "dünya bankasının açıkladığı yeni beceriler neydi",
+            "label": 0
+        }
+    ]
+}
