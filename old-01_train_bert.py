@@ -18,7 +18,6 @@ dataset = Dataset.from_dict(dataset_dict)
 
 # Initialize the tokenizer
 tokenizer = BertTokenizer.from_pretrained('dbmdz/bert-base-turkish-128k-cased')
-tokenizer.clean_up_tokenization_spaces = True
 
 # Tokenize the text
 def tokenize_function(examples):
@@ -46,28 +45,17 @@ training_args = TrainingArguments(
     weight_decay=0.015,
     logging_dir='./logs',
     logging_steps=10,
-    eval_strategy="epoch",
+    evaluation_strategy="epoch",
     save_strategy="epoch",
     load_best_model_at_end=True,
 )
 
-# Custom save function to ensure tensors are contiguous
-class ContiguousTrainer(Trainer):
-    def save_model(self, output_dir: str, _internal_call: bool = False):
-        # Make sure all model parameters are contiguous
-        for param in self.model.parameters():
-            if not param.is_contiguous():
-                param.data = param.data.contiguous()
-        
-        # Call the original save_model method
-        super().save_model(output_dir, _internal_call)
-
-# Set up the trainer with custom save function
-trainer = ContiguousTrainer(
+# Set up the trainer
+trainer = Trainer(
     model=model,
     args=training_args,
     train_dataset=train_dataset,
-    eval_dataset=eval_dataset,
+    eval_dataset=eval_dataset
 )
 
 # Train the model

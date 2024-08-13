@@ -1,3 +1,5 @@
 .env
 venv/
 trained_models/
+my_bert_model/
+results/

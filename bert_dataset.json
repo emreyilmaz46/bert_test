@@ -1,0 +1,804 @@
+{
+  "questions": [
+    {
+      "text": "SWOT analizi nedir ve nasıl yapılır?",
+      "label": 0
+    },
+    {
+      "text": "Maslow'un ihtiyaçlar hiyerarşisindeki basamaklar nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Etkili sunum teknikleri arasında en önemlisi hangisidir?",
+      "label": 0
+    },
+    {
+      "text": "Agile proje yönetiminde 'sprint' ne anlama geliyor?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde stres yönetimi için önerilen teknikler nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Duygusal zeka nedir ve iş hayatında neden önemlidir?",
+      "label": 0
+    },
+    {
+      "text": "SMART hedef belirleme yöntemindeki kriterler nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Çatışma yönetiminde 'uzlaşma' stratejisi nasıl uygulanır?",
+      "label": 0
+    },
+    {
+      "text": "Pareto prensibi (80/20 kuralı) nedir ve nasıl kullanılır?",
+      "label": 0
+    },
+    {
+      "text": "Motivasyon teorilerinden Herzberg'in Çift Faktör Teorisi'ni açıklayabilir misiniz?",
+      "label": 0
+    },
+    {
+      "text": "Öğrenme çevikliği (learning agility) nedir ve nasıl geliştirilebilir?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde empatiyi geliştirmek için hangi egzersizler öneriliyor?",
+      "label": 0
+    },
+    {
+      "text": "Zaman yönetimi matrisinde 'önemli ve acil olmayan' işler hangi kuadrantta yer alır?",
+      "label": 0
+    },
+    {
+      "text": "Dijital dönüşümün şirketlere sağladığı en önemli 3 fayda nedir?",
+      "label": 0
+    },
+    {
+      "text": "Etkili geri bildirim verme tekniklerinden 'sandviç yöntemi' nasıl uygulanır?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde toksik davranışları tespit etmenin yolları nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Dönüşümcü liderlik tarzının temel özellikleri nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Müşteri deneyimi haritası (customer journey map) nasıl oluşturulur?",
+      "label": 0
+    },
+    {
+      "text": "Design thinking sürecindeki 5 aşama nedir?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde kültürel çeşitliliği artırmanın yolları nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Scrum metodolojisinde 'Product Owner'ın sorumlulukları nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Etkili networking için önerilen en iyi 3 strateji nedir?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde psikolojik güvenlik nasıl sağlanır?",
+      "label": 0
+    },
+    {
+      "text": "Veri görselleştirmede en sık yapılan hatalar nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Örgütsel öğrenmenin 3 temel seviyesi nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "İnovasyon kültürünü teşvik etmek için neler yapılabilir?",
+      "label": 0
+    },
+    {
+      "text": "Dijital pazarlamada A/B testi nasıl yapılır?",
+      "label": 0
+    },
+    {
+      "text": "Sürdürülebilir iş modelleri oluşturmanın temel prensipleri nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde duygusal bulaşıcılık (emotional contagion) nedir ve nasıl yönetilir?",
+      "label": 0
+    },
+    {
+      "text": "Büyük veri analizinde kullanılan temel teknikler nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Çevik (agile) ve şelale (waterfall) proje yönetimi arasındaki temel farklar nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde kuşaklar arası iletişimi geliştirmenin yolları nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Karar verme sürecinde 'çerçeveleme etkisi' (framing effect) nedir?",
+      "label": 0
+    },
+    {
+      "text": "Siber güvenlik farkındalığını artırmak için önerilen en etkili yöntemler nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Örgütsel değişim sürecinde Lewin'in 3 aşamalı modeli nedir?",
+      "label": 0
+    },
+    {
+      "text": "İş yerinde mindfulness uygulamalarının faydaları nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Müşteri segmentasyonu yaparken dikkat edilmesi gereken noktalar nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Etik liderliğin temel prensipleri nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Yapay zeka destekli insan kaynakları uygulamaları nelerdir?",
+      "label": 0
+    },
+    {
+      "text": "Kriz yönetiminde iletişim stratejisinin önemi nedir?",
+      "label": 0
+    },
+    {
+      "text": "Bu eğitimde Kotter'in değişim yönetimi modeli geçiyor mu?",
+      "label": 0
+    },
+    {
+      "text": "Cömert dinleme nedir?",
+      "label": 0
+    },
+    {
+      "text": "Farklı kişilik tipleri vardı eğitimde, onların listesini versene",
+      "label": 0
+    },
+    {
+      "text": "Excel'de tekrar eden verileri nasıl kaldırıyorduk ya?",
+      "label": 0
+    },
+    {
+      "text": "Sağlıklı yaşamak istiyoruz tabi de genel şeyler yerine bir egzersiz öner sen bana",
+      "label": 0
+    },
+    {
+      "text": "Ben şu duygusal dayanıklılık dediğin şeyi tam anlamadım",
+      "label": 0
+    },
+    {
+      "text": "Sermaye Piyasası Kurulu'nun hangi kararı ile bu yeni finansal enstrümanlar yasaklanmıştı?",
+      "label": 0
+    },
+    {
+      "text": "İkna becerilerimi geliştirmek istiyorum. Ne yapmalıyım?",
+      "label": 0
+    },
+    {
+      "text": "Power BI'da hangi menüden giriyorduk grafik oluşturmaya",
+      "label": 0
+    },
+    {
+      "text": "dünya bankasının açıkladığı yeni beceriler neydi",
+      "label": 0
+    },
+    {
+      "text": "Bu eğitimde liderlik konusunda hangi ana başlıklar ele alınıyor?",
+      "label": 1
+    },
+    {
+      "text": "Dijital dönüşüm eğitiminin genel içeriğini özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "İnovasyon yönetimi kursunun ana temalarını sıralar mısın?",
+      "label": 1
+    },
+    {
+      "text": "Finansal okuryazarlık eğitiminde hangi konular işleniyor?",
+      "label": 1
+    },
+    {
+      "text": "Proje yönetimi eğitiminin genel çerçevesini anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "Etkili iletişim beceriler kursunun içeriğini genel hatlarıyla açıklar mısın?",
+      "label": 1
+    },
+    {
+      "text": "Veri analizi eğitiminde hangi araçlar ve teknikler öğretiliyor?",
+      "label": 1
+    },
+    {
+      "text": "Kişisel gelişim eğitiminin ana odak noktaları nelerdir?",
+      "label": 1
+    },
+    {
+      "text": "Stratejik planlama kursunun genel yapısını anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "Müşteri ilişkileri yönetimi eğitiminin ana bölümlerini özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "Zaman yönetimi eğitiminde öğretilen temel stratejiler nelerdir?",
+      "label": 1
+    },
+    {
+      "text": "Yapay zeka ve makine öğrenmesi kursunun genel içeriğini özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "Örgütsel davranış eğitiminde hangi temel kavramlar ele alınıyor?",
+      "label": 1
+    },
+    {
+      "text": "Siber güvenlik eğitiminin ana başlıklarını sıralar mısın?",
+      "label": 1
+    },
+    {
+      "text": "Sürdürülebilirlik ve çevre yönetimi kursunun genel çerçevesini anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "Pazarlama stratejileri eğitiminin içeriğini genel hatlarıyla açıklar mısın?",
+      "label": 1
+    },
+    {
+      "text": "İnsan kaynakları yönetimi kursunda hangi konular işleniyor?",
+      "label": 1
+    },
+    {
+      "text": "Kriz yönetimi eğitiminin ana temalarını özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "Dijital pazarlama eğitiminde öğretilen temel stratejiler nelerdir?",
+      "label": 1
+    },
+    {
+      "text": "Çevik (Agile) proje yönetimi kursunun genel yapısını anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "Duygusal zeka eğitiminin ana odak noktaları nelerdir?",
+      "label": 1
+    },
+    {
+      "text": "Kurumsal sosyal sorumluluk eğitiminin genel içeriğini özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "İş hukuku eğitiminde hangi temel konular ele alınıyor?",
+      "label": 1
+    },
+    {
+      "text": "Tedarik zinciri yönetimi kursunun ana başlıklarını sıralar mısın?",
+      "label": 1
+    },
+    {
+      "text": "Yaratıcı düşünme teknikleri eğitiminin genel çerçevesini anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "Finansal modelleme kursunun içeriğini genel hatlarıyla açıklar mısın?",
+      "label": 1
+    },
+    {
+      "text": "İş analitiği eğitiminde hangi araçlar ve yöntemler öğretiliyor?",
+      "label": 1
+    },
+    {
+      "text": "Çatışma çözümü ve müzakere becerileri kursunun ana temalarını özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "Girişimcilik eğitiminin genel yapısını anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "İş etiği ve kurumsal yönetişim kursunda işlenen ana konular nelerdir?",
+      "label": 1
+    },
+    {
+      "text": "Blokzincir teknolojileri eğitiminin genel içeriğini özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "Yetenek yönetimi kursunun ana odak noktaları nelerdir?",
+      "label": 1
+    },
+    {
+      "text": "Dijital dönüşüm liderliği eğitiminde hangi konular ele alınıyor?",
+      "label": 1
+    },
+    {
+      "text": "İş süreci iyileştirme kursunun genel çerçevesini anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "Marka yönetimi eğitiminin ana başlıklarını sıralar mısın?",
+      "label": 1
+    },
+    {
+      "text": "Veri görselleştirme kursunun içeriğini genel hatlarıyla açıklar mısın?",
+      "label": 1
+    },
+    {
+      "text": "Örgütsel öğrenme ve bilgi yönetimi eğitiminin temel konuları nelerdir?",
+      "label": 1
+    },
+    {
+      "text": "Burda bahsedilen kar oranları içinde en yüksek olanı hangisi?",
+      "label": 1
+    },
+    {
+      "text": "Durumsal liderlik tekniklerine uyulan örneklerde uyulmayanlara göre ne değişiyor",
+      "label": 1
+    },
+    {
+      "text": "Bu eğitimde Daniel Kahnemann'la ilgili bütün alıntılardan bir derleme yap",
+      "label": 1
+    },
+    {
+      "text": "bu eğitim benim kariyerime ne fayda sağlayacak?",
+      "label": 1
+    },
+    {
+      "text": "değişim yönetiminin 5 adımını kısa kısa özetler şeklinde yaz",
+      "label": 1
+    },
+    {
+      "text": "Bu eğitimde Python ile OOP konusuna girecek misiniz?",
+      "label": 1
+    },
+    {
+      "text": "Burda önerilen bütün kitaplardan bana bi liste yap",
+      "label": 1
+    },
+    {
+      "text": "her dönemin değil de sadece 80 sonrası dönemin öne çıkan liderlik stillerini açıkla",
+      "label": 1
+    },
+    {
+      "text": "eğitimin tamamının özetini ver",
+      "label": 1
+    },
+    {
+      "text": "yapay zekanın her sektöre faydaları vardı ya videolarda onu sektör sektör kısaca söylesene bi",
+      "label": 1
+    },
+    {
+      "text": "Değişim yönetimi eğitiminin ana aşamalarını ve genel yaklaşımını özetler misin?",
+      "label": 1
+    },
+    {
+      "text": "Endüstri 4.0 ve dijital dönüşüm kursunun kapsamını genel hatlarıyla anlatır mısın?",
+      "label": 1
+    },
+    {
+      "text": "Sürdürülebilir liderlik eğitiminin temel prensiplerini ve genel içeriğini açıklar mısın?",
+      "label": 1
+    },
+    {
+      "text": "Sen bir yapay zeka mısın?",
+      "label": 2
+    },
+    {
+      "text": "Hangi dilleri konuşabiliyorsun?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitim içeriğini PDF olarak gönderebilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Senin öğrenme kapacitenin sınırı var mı?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim platformunda kaç kişiye yardımcı oldun şimdiye kadar?",
+      "label": 2
+    },
+    {
+      "text": "Seni kim geliştirdi?",
+      "label": 2
+    },
+    {
+      "text": "Benim geçmiş sorularımı hatırlıyor musun?",
+      "label": 2
+    },
+    {
+      "text": "Sence bu eğitim içeriği yeterince kapsamlı mı?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili bir sertifika verebilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Senin favori eğitim konun hangisi?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim videolarını indirebilir miyim?",
+      "label": 2
+    },
+    {
+      "text": "Benim öğrenme hızımı takip edebiliyor musun?",
+      "label": 2
+    },
+    {
+      "text": "Sence ben hangi eğitimleri almalıyım?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili bir özet mail atabilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Sen gerçek bir öğretmen misin yoksa sadece bir asistan mısın?",
+      "label": 2
+    },
+    {
+      "text": "Benim profilimdeki bilgilere erişimin var mı?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim içeriğini güncelleyebilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Sence bu eğitim platformunda neler geliştirilmeli?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili bir quiz hazırlayabilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Senin cevapların ne kadar güvenilir?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim içeriğini benim için özelleştirebilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Sence ben bu eğitimden ne kadar faydalandım?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili ek kaynaklar önerebilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Sen sürekli öğreniyor musun yoksa bilgin sabit mi?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim platformundaki rolün tam olarak ne?",
+      "label": 2
+    },
+    {
+      "text": "Benim sorularımı nasıl analiz ediyorsun?",
+      "label": 2
+    },
+    {
+      "text": "Sence bu eğitim içeriği güncel mi?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili bir sunum hazırlayabilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Senin verdiğin bilgilerin kaynağı ne?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim içeriğini başka bir dilde sunabilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Sence ben bu eğitimi ne kadar sürede tamamlarım?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili bir ödev verebilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Sen duygulara sahip misin?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim platformunda başka hangi özelliklere sahipsin?",
+      "label": 2
+    },
+    {
+      "text": "Sence bu eğitim içeriğinde eksik olan konular var mı?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili bir ilerleme raporu sunabilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Senin bilgi kaynakların neler?",
+      "label": 2
+    },
+    {
+      "text": "Bu eğitim içeriğini benim için sesli olarak okuyabilir misin?",
+      "label": 2
+    },
+    {
+      "text": "Sence ben bu eğitimden sonra hangi konuya yönelmeliyim?",
+      "label": 2
+    },
+    {
+      "text": "Bana bu eğitimle ilgili bir motivasyon mesajı yazabilir misin?",
+      "label": 2
+    },
+    {
+      "text": "senin adın ne",
+      "label": 2
+    },
+    {
+      "text": "bu eğitimi bizim bütün direktörlere de atasana",
+      "label": 2
+    },
+    {
+      "text": "bu eğitimi ben saçma buldum sen beğendin mi",
+      "label": 2
+    },
+    {
+      "text": "videonun sonundaki linke git",
+      "label": 2
+    },
+    {
+      "text": "senin hafızan ne kadar",
+      "label": 2
+    },
+    {
+      "text": "2 hafta önce bir soru sormuştum sana bu liderlik eğitimiyle ilgili, onun cevabını getirsene bi",
+      "label": 2
+    },
+    {
+      "text": "hangi modeli kullanıyorsun gpt mi",
+      "label": 2
+    },
+    {
+      "text": "sen beğendin mi bu verdiğin cevabı şimdi",
+      "label": 2
+    },
+    {
+      "text": "bu eğitimi özetleyen bir resim çiz bana",
+      "label": 2
+    },
+    {
+      "text": "sen bu videolardaki her şeyi biliyor musun",
+      "label": 2
+    },
+    {
+      "text": "Yapay zeka konusunda başka hangi eğitimleriniz var?",
+      "label": 3
+    },
+    {
+      "text": "Liderlik eğitimlerinin tamamını listeleyebilir misin?",
+      "label": 3
+    },
+    {
+      "text": "Finans alanında ileri seviye kurslarınız mevcut mu?",
+      "label": 3
+    },
+    {
+      "text": "Yabancı dil öğrenme eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Proje yönetimi sertifikası veren bir eğitiminiz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Kişisel gelişim kategorisinde en popüler 5 eğitiminiz hangileri?",
+      "label": 3
+    },
+    {
+      "text": "Veri bilimi alanında yeni eklenen eğitimler neler?",
+      "label": 3
+    },
+    {
+      "text": "İş hukuku ile ilgili eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Dijital pazarlama konusunda hangi eğitmenlerin kursları mevcut?",
+      "label": 3
+    },
+    {
+      "text": "Siber güvenlik eğitimlerinizin seviyelerini öğrenebilir miyim?",
+      "label": 3
+    },
+    {
+      "text": "Çevik (Agile) metodolojiler hakkında başka eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Satış teknikleri üzerine hangi eğitimleri önerirsiniz?",
+      "label": 3
+    },
+    {
+      "text": "İnovasyon yönetimi konusunda ileri seviye bir eğitiminiz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Sürdürülebilirlik ve çevre yönetimi ile ilgili eğitimleriniz neler?",
+      "label": 3
+    },
+    {
+      "text": "Blockchain teknolojileri hakkında eğitimleriniz mevcut mu?",
+      "label": 3
+    },
+    {
+      "text": "İnsan kaynakları yönetimi alanında sertifikalı programlarınız var mı?",
+      "label": 3
+    },
+    {
+      "text": "Kriz yönetimi konusunda hangi eğitimleri sunuyorsunuz?",
+      "label": 3
+    },
+    {
+      "text": "Müşteri ilişkileri yönetimi eğitimlerinizin içerikleri neler?",
+      "label": 3
+    },
+    {
+      "text": "Endüstri 4.0 hakkında eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Görsel tasarım ve UX/UI konularında hangi eğitimleri önerirsiniz?",
+      "label": 3
+    },
+    {
+      "text": "Stratejik planlama üzerine en kapsamlı eğitiminiz hangisi?",
+      "label": 3
+    },
+    {
+      "text": "Duygusal zeka geliştirme konusunda başka eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Risk yönetimi alanında hangi eğitimleri sunuyorsunuz?",
+      "label": 3
+    },
+    {
+      "text": "Yazılım geliştirme eğitimlerinizin seviyeleri neler?",
+      "label": 3
+    },
+    {
+      "text": "Kurumsal sosyal sorumluluk konusunda eğitimleriniz mevcut mu?",
+      "label": 3
+    },
+    {
+      "text": "Tedarik zinciri yönetimi ile ilgili hangi eğitimleri önerirsiniz?",
+      "label": 3
+    },
+    {
+      "text": "Girişimcilik üzerine sertifikalı bir programınız var mı?",
+      "label": 3
+    },
+    {
+      "text": "Yapay zeka etiği konusunda eğitimleriniz mevcut mu?",
+      "label": 3
+    },
+    {
+      "text": "İş analitiği alanında hangi araçlar üzerine eğitimler sunuyorsunuz?",
+      "label": 3
+    },
+    {
+      "text": "Marka yönetimi konusunda ileri seviye eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Çalışan bağlılığı ve motivasyon üzerine eğitimleriniz neler?",
+      "label": 3
+    },
+    {
+      "text": "Veri görselleştirme konusunda hangi araçlar için eğitim veriyorsunuz?",
+      "label": 3
+    },
+    {
+      "text": "Değişim yönetimi eğitimlerinizin içerikleri neler?",
+      "label": 3
+    },
+    {
+      "text": "Nöroliderlik konusunda eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Sürdürülebilir finans alanında hangi eğitimleri sunuyorsunuz?",
+      "label": 3
+    },
+    {
+      "text": "İş etiği ve kurumsal yönetişim konusunda eğitimleriniz mevcut mu?",
+      "label": 3
+    },
+    {
+      "text": "Yapay zeka destekli karar verme süreçleri hakkında eğitimleriniz var mı?",
+      "label": 3
+    },
+    {
+      "text": "Yetenek yönetimi konusunda hangi eğitimleri önerirsiniz?",
+      "label": 3
+    },
+    {
+      "text": "Dijital dönüşüm liderliği üzerine eğitimleriniz mevcut mu?",
+      "label": 3
+    },
+    {
+      "text": "İş süreci iyileştirme metodolojileri hakkında hangi eğitimleri sunuyorsunuz?",
+      "label": 3
+    },
+    {
+      "text": "Kaç tane eğitiminiz var toplam?",
+      "label": 3
+    },
+    {
+      "text": "dijital dönüşümle ilgili hangi eğitmenler var",
+      "label": 3
+    },
+    {
+      "text": "bize bu powerpoint artık yetmiyo, onun yerine başka sunum araçlarını anlatan bir şeyler önerebilir misin",
+      "label": 3
+    },
+    {
+      "text": "Simon Sinek'ten alıntı yapılması çok iyiydi. Başka videolarınız var mı yine Simon'dan bahseden",
+      "label": 3
+    },
+    {
+      "text": "bu mindfulness olayını sevdim bunun gibi hangi eğitimler var",
+      "label": 3
+    },
+    {
+      "text": "bunun podcast olanı olsa çok iyi olur ha",
+      "label": 3
+    },
+    {
+      "text": "yapay zekayla ilgili en iyi 3 eğitiminiz hangileri",
+      "label": 3
+    },
+    {
+      "text": "yine bu motivasyon konusuyla ilgili ama daha uzun eğitimler videolar falan var mı",
+      "label": 3
+    },
+    {
+      "text": "Mehmet Auf'un başka hangi eğitimleri var?",
+      "label": 3
+    },
+    {
+      "text": "bizimki basic katalog muydu",
+      "label": 3
+    }
+  ]
+}
